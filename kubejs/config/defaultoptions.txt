@@ -1,0 +1,5 @@
+version:3465
+autoJump:false
+darkMojangStudiosBackground:true
+biomeBlendRadius:7
+mipmapLevels:0

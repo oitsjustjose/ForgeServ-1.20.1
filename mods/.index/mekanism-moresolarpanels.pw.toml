@@ -1,0 +1,13 @@
+filename = 'Mekanism-MoreSolarPanels-1.20.1-1.5.9.jar'
+name = 'Mekanism-MoreSolarPanels'
+side = 'both'
+
+[download]
+hash = 'fe1c2b785713496a0b2fc1f65a3c994b691fa61f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5138626
+project-id = 844063

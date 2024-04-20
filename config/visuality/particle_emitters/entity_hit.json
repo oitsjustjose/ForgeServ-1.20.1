@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "min_amount": 1,
+  "max_amount": 20,
+  "entries": [
+    {
+      "entity": "minecraft:wither_skeleton",
+      "particle": {
+        "type": "visuality:wither_bone"
+      }
+    },
+    {
+      "entity": [
+        "minecraft:chicken",
+        "naturalist:bluejay",
+        "naturalist:canary",
+        "naturalist:duck",
+        "naturalist:finch",
+        "naturalist:robin",
+        "naturalist:sparrow",
+        "naturalist:vulture"
+      ],
+      "particle": {
+        "type": "visuality:feather"
+      }
+    },
+    {
+      "entity": [
+        "minecraft:villager",
+        "minecraft:wandering_trader"
+      ],
+      "particle": {
+        "type": "visuality:emerald"
+      }
+    }
+  ]
+}

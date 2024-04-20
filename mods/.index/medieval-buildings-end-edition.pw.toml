@@ -1,0 +1,13 @@
+filename = 'forge-medievalend-1.0.1.jar'
+name = 'Medieval Buildings [End Edition]'
+side = 'both'
+
+[download]
+hash = '11e2b53ec5c85ee01fe689ea9ebd695ee0ceb299'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5270720
+project-id = 976817

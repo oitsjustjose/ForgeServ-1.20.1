@@ -1,0 +1,13 @@
+filename = 'RebornCore-5.8.7.jar'
+name = 'Reborn Core'
+side = 'both'
+
+[download]
+hash = '3ef3ad7724b2313574a1010e702958cf0c6ad18c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4708961
+project-id = 237903

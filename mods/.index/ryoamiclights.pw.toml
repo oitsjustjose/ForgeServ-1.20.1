@@ -1,0 +1,13 @@
+filename = 'RyoamicLights-forge-0.2.1+mc1.20.1.jar'
+name = 'RyoamicLights'
+side = 'both'
+
+[download]
+hash = '5321bd5bffe2ec714170bb3ef2ca859998859e62'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5168814
+project-id = 913587

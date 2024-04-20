@@ -1,0 +1,13 @@
+filename = 'sushigocrafting-1.20.1-0.5.2.jar'
+name = 'Sushi Go Crafting'
+side = 'both'
+
+[download]
+hash = '5adba8d3039e457674acfb8674a8c78e38feb82a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5143902
+project-id = 452500

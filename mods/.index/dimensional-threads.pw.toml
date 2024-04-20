@@ -1,0 +1,13 @@
+filename = 'dimthread-1.20.1-v1.0.4.jar'
+name = 'Dimensional Threading Reforked'
+side = 'both'
+
+[download]
+hash = '282c3cf851b29e262e2ae62d64d2b98636aedc5a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5145251
+project-id = 955545
