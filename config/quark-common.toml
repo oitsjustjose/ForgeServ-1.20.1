@@ -1621,7 +1621,7 @@
 		#If set to false, item attributes will show in white or red if they're negative values.
 		"Show Upgrade Status" = true
 		"Animate Up Down Arrows" = true
-		"Enchanting Stacks" = ["minecraft:netherite_sword", "minecraft:netherite_pickaxe", "minecraft:netherite_shovel", "minecraft:netherite_axe", "minecraft:netherite_hoe", "minecraft:netherite_helmet", "minecraft:netherite_chestplate", "minecraft:netherite_leggings", "minecraft:netherite_boots", "minecraft:shears", "minecraft:bow", "minecraft:fishing_rod", "minecraft:crossbow", "minecraft:trident", "minecraft:elytra", "minecraft:shield", "quark:pickarang", "supplementaries:slingshot", "supplementaries:bubble_blower", "farmersdelight:netherite_knife"]
+		"Enchanting Stacks" = ["minecraft:iron_sword", "minecraft:iron_pickaxe", "minecraft:iron_shovel", "minecraft:iron_axe", "minecraft:iron_hoe", "minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "minecraft:shears", "minecraft:bow", "minecraft:fishing_rod", "minecraft:crossbow", "minecraft:trident", "minecraft:elytra", "minecraft:shield", "quark:pickarang", "supplementaries:slingshot", "supplementaries:bubble_blower", "farmersdelight:iron_knife"]
 		#A list of additional stacks to display on each enchantment
 		#The format is as follows:
 		#enchant_id=item1,item2,item3...

@@ -226,11 +226,6 @@
 
 		[general.types.cake]
 
-			[general.types.cake.thermal]
-				chocolate_cake = true
-				potion_cake = true
-				spice_cake = true
-
 			[general.types.cake.enigmaticlegacy]
 				cosmic_cake = true
 
