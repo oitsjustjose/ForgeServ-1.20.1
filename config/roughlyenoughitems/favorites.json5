@@ -1,10 +1,5 @@
 {
-	"favorites": [
-		"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"thermal:xp_crystal\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"sophisticatedbackpacks:crafting_upgrade\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"reliquary:barrel_assembly\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-	],
+	"favorites": [],
 	"hiddenFavorites": [],
 	"displays": []
 }
