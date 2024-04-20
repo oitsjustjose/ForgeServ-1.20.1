@@ -1,0 +1,13 @@
+filename = 'extrasounds-1.2d-1.20.1-forge.jar'
+name = 'ExtraSounds Forge'
+side = 'both'
+
+[download]
+hash = 'd666014d7a16aba767989378e82283169130c2f8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5238756
+project-id = 946784
