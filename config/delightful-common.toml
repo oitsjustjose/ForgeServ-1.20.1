@@ -128,7 +128,7 @@
 	quartz_cabinet = true
 	raw_goat = false
 	rock_candy = true
-	salmonberries = false
+	salmonberries = true
 	salmonberry_gummy = true
 	salmonberry_ice_cream = true
 	salmonberry_ice_cream_block = true
@@ -138,7 +138,7 @@
 	sinigang = true
 	smore = true
 	venison_chops = true
-	wild_salmonberries = true
+	wild_salmonberries = false
 	#Allow cooking milk from nuts
 	nut_milk = true
 	#Allow cooking honey from honey and clovers
