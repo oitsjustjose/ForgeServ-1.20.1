@@ -10,7 +10,7 @@
     "animal_owner.fetch_names": true,
     "harvest_tool.effective_tool": true,
     "item_storage.normal_amount": 9,
-    "item_storage": true,
+    "item_storage": false,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -72,7 +72,7 @@
     "block_face": false,
     "coordinates": false,
     "registry_name": "OFF",
-    "mod_name": false
+    "mod_name": true
   },
   "ae2": {
     "part_icon": true,

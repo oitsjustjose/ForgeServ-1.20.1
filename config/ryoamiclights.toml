@@ -9,6 +9,9 @@
 
 		[light_sources.settings.entities]
 
+			[light_sources.settings.entities.farmersdelight]
+				rotten_tomato = true
+
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = true
 				panda = true
@@ -24,6 +27,7 @@
 				husk = true
 				bat = true
 				frog = true
+				hoglin = true
 				camel = true
 				rabbit = true
 				silverfish = true
@@ -38,7 +42,9 @@
 				salmon = true
 				wandering_trader = true
 				wither_skeleton = true
+				piglin_brute = true
 				goat = true
+				ocelot = true
 				item_frame = true
 				horse = true
 				vindicator = true
@@ -55,6 +61,7 @@
 				chicken = true
 				trader_llama = true
 				donkey = true
+				evoker_fangs = true
 				fox = true
 				tropical_fish = true
 				slime = true
@@ -63,32 +70,26 @@
 				zombified_piglin = true
 				area_effect_cloud = true
 				blaze = true
+				piglin = true
 				cat = true
 				zombie = true
 				ender_pearl = true
 				sheep = true
 				player = true
 				pufferfish = true
+				potion = true
 				wolf = true
 				villager = true
 				skeleton_horse = true
 				zombie_villager = true
+				boat = true
 				polar_bear = true
+				strider = true
 				painting = true
 				cave_spider = true
 				witch = true
 				cod = true
 				spider = true
-
-			[light_sources.settings.entities.irons_spellbooks]
-				dead_king_corpse = true
-				necromancer = true
-				archevoker = true
-				priest = true
-				icicle = true
-
-			[light_sources.settings.entities.gateways]
-				normal_gateway = true
 
 			[light_sources.settings.entities.handcrafted]
 				seat = true
@@ -103,17 +104,8 @@
 				coral_enderman = true
 				end_enderman = true
 
-			[light_sources.settings.entities.pneumaticcraft]
-				heat_frame = true
-				spawner_agitator = true
-
-			[light_sources.settings.entities.enigmaticlegacy]
-				permanent_item_entity = true
-
-			[light_sources.settings.entities.wrd]
-				falling_icicle_mob = true
-				ender_miner = true
-				ancient_guardian = true
+			[light_sources.settings.entities.regions_unexplored]
+				boat = true
 
 			[light_sources.settings.entities.eidolon]
 				wraith = true
@@ -121,21 +113,8 @@
 				raven = true
 				necromancer = true
 
-			[light_sources.settings.entities.embers]
-				ancient_golem = true
-
-			[light_sources.settings.entities.creeperoverhaul]
-				dripstone_creeper = true
-				cave_creeper = true
-
-			[light_sources.settings.entities.lootr]
-				lootr_minecart = true
-
 			[light_sources.settings.entities.aether]
 				phyg = true
-
-			[light_sources.settings.entities.labels]
-				label = true
 
 			[light_sources.settings.entities.naturalist]
 				deer = true
@@ -167,9 +146,6 @@
 				tuna = true
 				shrimp = true
 
-			[light_sources.settings.entities.bloodmagic]
-				bloodlight = true
-
 			[light_sources.settings.entities.thermal]
 				blitz = true
 				blizz = true
@@ -183,9 +159,59 @@
 				squirrel = true
 				coconut_crab = true
 
+			[light_sources.settings.entities.quark]
+				skull_pike = true
+
 			[light_sources.settings.entities.dungeonnowloading]
 				spawner_carrier = true
 				chaos_spawner = true
+
+			[light_sources.settings.entities.irons_spellbooks]
+				dead_king_corpse = true
+				citadel_keeper = true
+				magic_missile = true
+				necromancer = true
+				archevoker = true
+				summoned_polar_bear = true
+				summoned_vex = true
+				priest = true
+				icicle = true
+				spectral_steed = true
+				gust = true
+
+			[light_sources.settings.entities.gateways]
+				normal_gateway = true
+
+			[light_sources.settings.entities.pneumaticcraft]
+				heat_frame = true
+				spawner_agitator = true
+
+			[light_sources.settings.entities.enigmaticlegacy]
+				permanent_item_entity = true
+
+			[light_sources.settings.entities.wrd]
+				falling_icicle_mob = true
+				ender_miner = true
+				ancient_guardian = true
+
+			[light_sources.settings.entities.twigs]
+				pebble = true
+
+			[light_sources.settings.entities.embers]
+				ancient_golem = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				dripstone_creeper = true
+				cave_creeper = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.labels]
+				label = true
+
+			[light_sources.settings.entities.bloodmagic]
+				bloodlight = true
 
 			[light_sources.settings.entities.ad_astra]
 				martian_raptor = true
