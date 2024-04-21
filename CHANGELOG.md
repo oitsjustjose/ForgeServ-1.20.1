@@ -1,3 +1,20 @@
+## 1.0.2
+
+### Added:
+
+- Flux Networks
+
+### Fixed:
+
+- Hopefully fixed the Glass recipe conflict - also added a Blasting recipe to make glass even faster to craft
+- Fixed Quark "disabling" mending - this isn't Harmonious Magineering
+- Fixed Delightful Salmonberries generating, but those you've obtained or found already won't say "Disabled" anymore
+- Silver and other materials not being able to be crafted into various storage blocks
+
+### Changed:
+
+- Downgraded REI to the last major version before a lot of refactoring occurred to hopefully improve performance and fix a few crashes we've seen (especially myself)
+
 ## 1.0.1
 
 ### Added
