@@ -284,11 +284,11 @@
       ]
     },
     {
-      "ore_size": 12,
+      "ore_size": 16,
       "discard_on_air_chance": 0.7,
       "modifiers": [
         {
-          "chance": 9,
+          "chance": 12,
           "type": "minecraft:rarity_filter"
         },
         {
@@ -2149,11 +2149,11 @@
       ]
     },
     {
-      "ore_size": 33,
+      "ore_size": 15,
       "discard_on_air_chance": 0.0,
       "modifiers": [
         {
-          "count": 46,
+          "count": 11,
           "type": "minecraft:count"
         },
         {
