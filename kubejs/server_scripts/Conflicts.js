@@ -73,4 +73,9 @@ ServerEvents.recipes(event => {
 
   event.replaceInput({}, 'laboratoryblocks:glowstone_particles', '#forge:small_dusts/glowstone');
   event.replaceInput({}, 'laboratoryblocks:redstone_particles', '#forge:small_dusts/redstone');
+
+  /* For some reason this recipe sometimes decides not to exist. Fix that I guess? */
+  event.remove({ output: 'minecraft:glass', type: 'minecraft:smelting' });
+  event.smelting('minecraft:glass', '#minecraft:sand');
+  event.blasting('minecraft:glass', '#minecraft:sand');
 });
