@@ -1,10 +1,9 @@
 {
 	"favorites": [
-		"{data:{Count:1b,id:\"enderio:enchanter\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{CategoryID:\"enderio:enchanter\",UUID:\"a55e55b6-91db-499e-9fa1-fca49cb85284\",type:\"roughlyenoughitems:display\"}"
+		"{data:{Count:1b,id:\"enderio:enchanter\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": [
-		"{DisplayHistoryCategory:\"minecraft:plugins/crafting\",DisplayHistoryContains:1b,DisplayHistoryData:{REIRecipeType:\"Shaped\",RecipeHeight:3,RecipeWidth:3,input:[[{Count:1b,id:\"minecraft:prismarine_crystals\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:gold_nugget\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:prismarine_crystals\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:lapis_lazuli\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:book\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:lapis_lazuli\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:blaze_powder\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:redstone\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:blaze_powder\",type:\"minecraft:item\"}]],location:\"enigmaticlegacy:enchantment_transposer\",output:[[{Count:1b,id:\"enigmaticlegacy:enchantment_transposer\",type:\"minecraft:item\"}]]},DisplayHistoryUUID:\"abcce47f-a3c7-4d86-8c4b-5f1c6ad606ce\"}"
+		"{DisplayHistoryCategory:\"minecraft:plugins/crafting\",DisplayHistoryContains:1b,DisplayHistoryData:{REIRecipeType:\"Shaped\",RecipeHeight:3,RecipeWidth:3,input:[[{Count:1b,id:\"minecraft:prismarine_crystals\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:gold_nugget\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:prismarine_crystals\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:lapis_lazuli\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:book\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:lapis_lazuli\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:blaze_powder\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:redstone\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:blaze_powder\",type:\"minecraft:item\"}]],location:\"enigmaticlegacy:enchantment_transposer\",output:[[{Count:1b,id:\"enigmaticlegacy:enchantment_transposer\",type:\"minecraft:item\"}]]},DisplayHistoryUUID:\"5fe83845-7886-4b03-b7d1-58e7fc37bf7a\"}"
 	]
 }

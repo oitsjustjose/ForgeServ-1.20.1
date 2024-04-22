@@ -9,9 +9,6 @@
 
 		[light_sources.settings.entities]
 
-			[light_sources.settings.entities.farmersdelight]
-				rotten_tomato = true
-
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = true
 				panda = true
@@ -91,6 +88,9 @@
 				cod = true
 				spider = true
 
+			[light_sources.settings.entities.farmersdelight]
+				rotten_tomato = true
+
 			[light_sources.settings.entities.handcrafted]
 				seat = true
 				fancy_painting = true
@@ -103,6 +103,7 @@
 				snowy_enderman = true
 				coral_enderman = true
 				end_enderman = true
+				scarab = true
 
 			[light_sources.settings.entities.regions_unexplored]
 				boat = true
@@ -124,8 +125,8 @@
 				snake = true
 				robin = true
 				tortoise = true
-				duck = true
 				butterfly = true
+				duck = true
 				bear = true
 				sparrow = true
 				lizard = true
@@ -167,14 +168,15 @@
 				chaos_spawner = true
 
 			[light_sources.settings.entities.irons_spellbooks]
-				dead_king_corpse = true
 				citadel_keeper = true
-				magic_missile = true
 				necromancer = true
 				archevoker = true
+				priest = true
+				spectral_hammer = true
+				dead_king_corpse = true
+				magic_missile = true
 				summoned_polar_bear = true
 				summoned_vex = true
-				priest = true
 				icicle = true
 				spectral_steed = true
 				gust = true
