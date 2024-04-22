@@ -6,49 +6,6 @@
 		"cheating": true,
 		"favoritesEnabled": true,
 		"reduceMotion": false,
-		"keyBindings": {
-			"useNativeKeybinds": false,
-			"recipeKeybind": {
-				"keyCode": "key.keyboard.r",
-				"modifier": 0
-			},
-			"usageKeybind": {
-				"keyCode": "key.keyboard.f",
-				"modifier": 0
-			},
-			"hideKeybind": {
-				"keyCode": "key.keyboard.o",
-				"modifier": 2
-			},
-			"previousPageKeybind": {
-				"keyCode": "key.keyboard.unknown",
-				"modifier": 0
-			},
-			"nextPageKeybind": {
-				"keyCode": "key.keyboard.unknown",
-				"modifier": 0
-			},
-			"focusSearchFieldKeybind": {
-				"keyCode": "key.keyboard.f",
-				"modifier": 2
-			},
-			"copyRecipeIdentifierKeybind": {
-				"keyCode": "key.mouse.middle",
-				"modifier": 0
-			},
-			"favoriteKeybind": {
-				"keyCode": "key.keyboard.a",
-				"modifier": 0
-			},
-			"exportImageKeybind": {
-				"keyCode": "key.keyboard.f8",
-				"modifier": 0
-			},
-			"previousScreenKeybind": {
-				"keyCode": "key.keyboard.backspace",
-				"modifier": 0
-			}
-		},
 		// Declares whether REI is visible.
 		"overlayVisible": true,
 		"cheatingStyle": "GRAB"
@@ -66,7 +23,7 @@
 			"showCraftableOnlyButton": false
 		},
 		// Declares the appearance of recipe's border.
-		"recipeBorder": "DEFAULT",
+		"recipeBorder": "LIGHTER",
 		// Declares whether entry panel is scrolled.
 		"scrollingEntryListWidget": false,
 		// Declares whether entry panel should be invisible when not searching
@@ -364,9 +321,12 @@
 					"techreborn:semi_fluid_generator",
 					"techreborn:plasma_generator",
 					"roughlyenoughitems:plugins/information",
-					"minecraft:plugins/tag"
+					"minecraft:plugins/tag",
+					"fluxnetworks:creating_flux"
 				],
-				"hiddenCategories": []
+				"hiddenCategories": [
+					"minecraft:plugins/tag"
+				]
 			}
 		},
 		"filtering": {
