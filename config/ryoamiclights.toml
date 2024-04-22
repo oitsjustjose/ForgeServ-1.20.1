@@ -9,6 +9,9 @@
 
 		[light_sources.settings.entities]
 
+			[light_sources.settings.entities.farmersdelight]
+				rotten_tomato = true
+
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = true
 				panda = true
@@ -88,9 +91,6 @@
 				cod = true
 				spider = true
 
-			[light_sources.settings.entities.farmersdelight]
-				rotten_tomato = true
-
 			[light_sources.settings.entities.handcrafted]
 				seat = true
 				fancy_painting = true
@@ -125,8 +125,8 @@
 				snake = true
 				robin = true
 				tortoise = true
-				butterfly = true
 				duck = true
+				butterfly = true
 				bear = true
 				sparrow = true
 				lizard = true

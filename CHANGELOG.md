@@ -2,18 +2,25 @@
 
 ### Added:
 
+- Emojis from ForgeServ to Emojiful 👌
 - Flux Networks
+- Luggage
+- NotEnoughCrashes
 
 ### Fixed:
 
-- Hopefully fixed the Glass recipe conflict - also added a Blasting recipe to make glass even faster to craft
-- Fixed Quark "disabling" mending - this isn't Harmonious Magineering
 - Fixed Delightful Salmonberries generating, but those you've obtained or found already won't say "Disabled" anymore
+- Fixed Quark "disabling" mending - this isn't Harmonious Magineering
+- Hopefully fixed the Glass recipe conflict - also added a Blasting recipe to make glass even faster to craft
+- Increased Diamond frequency in Mining Dimension
+- Reduced Clay frequency in Mining Dimension
 - Silver and other materials not being able to be crafted into various storage blocks
+- Some blocks not being mineable by the Spectral Hammer
+- Bad REI performance - should be much quicker to look up recipes and uses, as well as no longer have to wait for REI to load before opening it
 
 ### Changed:
 
-- Downgraded REI to the last major version before a lot of refactoring occurred to hopefully improve performance and fix a few crashes we've seen (especially myself)
+- MiniUtilities' Quantum Quarry has been permantly nuked in this pack. In my testing, it caused a **permanent** crash to the world that never resolved, locking me out of the world forever. I don't want that happening to us pls.
 
 ## 1.0.1
 
