@@ -2,13 +2,22 @@
 
 ### Added:
 
+- BadWitherNoCookie
 - Emojis from ForgeServ to Emojiful 👌
 - Flux Networks
 - Luggage
-- NotEnoughCrashes
+- BotanyPots support for RegionsUnexplored
+
+### Updated:
+
+- Dungeon: Now Loading 1%
+- Explorify
+- Framed Blocks
+- PacketFixer
 
 ### Fixed:
 
+- Bad REI performance - should be much quicker to look up recipes and uses, as well as no longer have to wait for REI to load before opening it
 - Fixed Delightful Salmonberries generating, but those you've obtained or found already won't say "Disabled" anymore
 - Fixed Quark "disabling" mending - this isn't Harmonious Magineering
 - Hopefully fixed the Glass recipe conflict - also added a Blasting recipe to make glass even faster to craft
@@ -16,7 +25,6 @@
 - Reduced Clay frequency in Mining Dimension
 - Silver and other materials not being able to be crafted into various storage blocks
 - Some blocks not being mineable by the Spectral Hammer
-- Bad REI performance - should be much quicker to look up recipes and uses, as well as no longer have to wait for REI to load before opening it
 
 ### Changed:
 
