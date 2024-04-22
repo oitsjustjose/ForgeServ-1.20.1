@@ -6,6 +6,49 @@
 		"cheating": true,
 		"favoritesEnabled": true,
 		"reduceMotion": false,
+		"keyBindings": {
+			"useNativeKeybinds": false,
+			"recipeKeybind": {
+				"keyCode": "key.keyboard.r",
+				"modifier": 0
+			},
+			"usageKeybind": {
+				"keyCode": "key.keyboard.u",
+				"modifier": 0
+			},
+			"hideKeybind": {
+				"keyCode": "key.keyboard.o",
+				"modifier": 2
+			},
+			"previousPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"nextPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"focusSearchFieldKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"copyRecipeIdentifierKeybind": {
+				"keyCode": "key.mouse.middle",
+				"modifier": 0
+			},
+			"favoriteKeybind": {
+				"keyCode": "key.keyboard.a",
+				"modifier": 0
+			},
+			"exportImageKeybind": {
+				"keyCode": "key.keyboard.f8",
+				"modifier": 0
+			},
+			"previousScreenKeybind": {
+				"keyCode": "key.keyboard.backspace",
+				"modifier": 0
+			}
+		},
 		// Declares whether REI is visible.
 		"overlayVisible": true,
 		"cheatingStyle": "GRAB"
