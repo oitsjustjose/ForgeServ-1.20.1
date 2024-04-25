@@ -15,11 +15,12 @@
 
 ### Removed:
 
-- Dimensional Thread
+- Dimensional Threading
+  - Broke Hyperboxes
 - MiniUtilities
   - Holy crap was this mod broken. I disabled Ender Ore but it didn't acknowledge that config choice, and we've now discovered horrendous dupe bugs and outright negligence with the Golden Lassos.
 - REI
-  - Literally a bad mod for this pack with the number of crashes and lag spikes it caused - TechReborn machines won't show their recipes anymore, but just look them up rather than make the rest of us suffer D:
+  - Literally a bad mod for this pack with the number of crashes and lag spikes it caused - TechReborn machines won't show their recipes anymore, but I've generated a bunch of JEI "Info" pages for each item that vaguely tell you what you need to craft things and in which machine.
 
 ### Fixed:
 
