@@ -15,6 +15,7 @@
             "value": false
         },
         "enable_updates_check": false,
+        "interval_between_clicks_ms": 1,
         "first_run": false
     },
     "GuiSettings": {

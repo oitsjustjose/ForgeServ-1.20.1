@@ -1,3 +1,22 @@
+## 1.0.3
+
+### Added:
+
+- The Aether + Aether Redux + Deep Aether
+- JEI
+- Custom Patchouli book for TechReborn to help newcomers
+- Building Gadgets
+- Colytra
+
+### Removed:
+
+- Dimensional Thread
+- REI (literally bad) - TechReborn machines won't show their recipes anymore, but just look them up rather than make the rest of us suffer D:
+
+### Fixed:
+
+- InventoryProfiles sometimes causing a crash when moving too many items to your Backpack too quickly (I know Jake had this one a _lot_)
+
 ## 1.0.2
 
 ### Added:

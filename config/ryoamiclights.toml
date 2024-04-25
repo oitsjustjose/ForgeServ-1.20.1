@@ -115,7 +115,23 @@
 				necromancer = true
 
 			[light_sources.settings.entities.aether]
+				cockatrice = true
+				slider = true
+				golden_swet = true
+				evil_whirlwind = true
+				sun_spirit = true
+				blue_swet = true
+				zephyr = true
+				whirlwind = true
+				flying_cow = true
 				phyg = true
+				aerbunny = true
+				sheepuff = true
+				aerwhale = true
+				aechor_plant = true
+				mimic = true
+				moa = true
+				valkyrie_queen = true
 
 			[light_sources.settings.entities.naturalist]
 				deer = true
@@ -168,6 +184,7 @@
 				chaos_spawner = true
 
 			[light_sources.settings.entities.irons_spellbooks]
+				pyromancer = true
 				citadel_keeper = true
 				necromancer = true
 				archevoker = true
@@ -212,8 +229,17 @@
 			[light_sources.settings.entities.labels]
 				label = true
 
+			[light_sources.settings.entities.deep_aether]
+				aerglow_fish = true
+				venomite = true
+				quail = true
+
 			[light_sources.settings.entities.bloodmagic]
 				bloodlight = true
+
+			[light_sources.settings.entities.aether_redux]
+				vanilla_swet = true
+				blightbunny = true
 
 			[light_sources.settings.entities.ad_astra]
 				martian_raptor = true

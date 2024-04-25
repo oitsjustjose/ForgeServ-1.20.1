@@ -25,5 +25,5 @@
      * The chance that an End Enderman will teleport you when it hits you
      * Type: Float
      */
-    "endEndermanTeleportChance": 0.01
+    "endEndermanTeleportChance": 0.0
 }

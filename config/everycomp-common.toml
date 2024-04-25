@@ -165,6 +165,34 @@
 				coconut = true
 				walnut = true
 
+			[general.types.leaves_type.aether]
+				skyroot = true
+				golden_oak = true
+				crystal = true
+				crystal_fruit = true
+				holiday = true
+				decorated_holiday = true
+
+			[general.types.leaves_type.deep_aether]
+				roseroot = true
+				flowering_roseroot = true
+				blue_roseroot = true
+				flowering_blue_roseroot = true
+				yagroot = true
+				cruderoot = true
+				conberry = true
+				sunroot = true
+
+			[general.types.leaves_type.aether_redux]
+				prismatic_fieldsproot = true
+				spectral_fieldsproot = true
+				azure_fieldsproot = true
+				blightwillow = true
+				glacia = true
+				purple_glacia = true
+				gilded_oak = true
+				blighted_skyroot = true
+
 		[general.types.wood_type]
 
 			[general.types.wood_type.regions_unexplored]
@@ -223,6 +251,24 @@
 				azalea = true
 				coconut = true
 				walnut = true
+
+			[general.types.wood_type.aether]
+				skyroot = true
+
+			[general.types.wood_type.deep_aether]
+				roseroot = true
+				yagroot = true
+				cruderoot = true
+				conberry = true
+				sunroot = true
+
+			[general.types.wood_type.aether_redux]
+				fieldsproot = true
+				blightwillow = true
+				cloudcap = true
+				jellyshroom = true
+				crystal = true
+				glacia = true
 
 		[general.types.cake]
 
