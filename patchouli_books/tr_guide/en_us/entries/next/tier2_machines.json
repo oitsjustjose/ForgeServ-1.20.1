@@ -1,0 +1,63 @@
+{
+  "name": "Tier 2 Machines",
+  "icon": "techreborn:advanced_circuit",
+  "category": "patchouli:next",
+  "sortnum": 32,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "We will go through the remaining tier 2 machines, i.e. the machines you can craft from an advanced circuit. Most of these are important for progression, but if one is not, its page will mention it. Multiblocks have pictures. Collect iron and bauxite..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Also has many convenience recipes, like magma cream or leather from rotten flesh and ashes.",
+      "recipe": "techreborn:crafting_table/machine/chemical_reactor"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The implosion compressor can also be used to form gem dust back to gems.",
+      "recipe": "techreborn:crafting_table/machine/implosion_compressor"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Implosion Compressor",
+      "text": "Inside MUST be empty.",
+      "images": [
+        "tr-patchouli:textures/gui/entries/implosion_compressor.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Also brings alternatives for circuits: copper or electrum plate + silicon plate for electronic or advanced circuit.",
+      "recipe": "techreborn:crafting_table/machine/assembling_machine"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Electrum can be obtained by alloying gold and silver ingot or centrifuging 16 lava cells. Silicon cells are obtained e.g. from 16 sand or 8 flint dust in the electrolyzer. Note that cobble grinds to gravel grinds to sand, and extractor gets flint out of gravel. Put silicon cells into industrial blast furnace for plates."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/diamond_saw_blade",
+      "recipe2": "techreborn:crafting_table/machine/industrial_sawmill"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The sawmill is not needed for progression, but easily produces a lot of saw dust, which can be used for recycling."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Sawmill",
+      "text": "Inside MUST be filled with water.",
+      "images": [
+        "tr-patchouli:textures/gui/entries/industrial_sawmill.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Not needed for progression, but very handy nevertheless.",
+      "recipe": "techreborn:crafting_table/machine/auto_crafting_table"
+    }
+  ]
+}
