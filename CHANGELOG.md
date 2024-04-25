@@ -2,16 +2,24 @@
 
 ### Added:
 
-- The Aether + Aether Redux + Deep Aether
-- JEI
-- Custom Patchouli book for TechReborn to help newcomers
+- Aether + Aether Redux + Deep Aether
+- Angel Ring
 - Building Gadgets
 - Colytra
+- JEI
+- Just Enough Calculation
+- Nature's Compass
+- Structure Compass
+- Custom Patchouli book for TechReborn to help newcomers
+- Script to give users an extra Charm slot to help with keeping their Enigmatic Charm on at all times, in place of having a grave mod.
 
 ### Removed:
 
 - Dimensional Thread
-- REI (literally bad) - TechReborn machines won't show their recipes anymore, but just look them up rather than make the rest of us suffer D:
+- MiniUtilities
+  - Holy crap was this mod broken. I disabled Ender Ore but it didn't acknowledge that config choice, and we've now discovered horrendous dupe bugs and outright negligence with the Golden Lassos.
+- REI
+  - Literally a bad mod for this pack with the number of crashes and lag spikes it caused - TechReborn machines won't show their recipes anymore, but just look them up rather than make the rest of us suffer D:
 
 ### Fixed:
 
