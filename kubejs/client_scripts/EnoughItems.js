@@ -10,13 +10,14 @@ JEIEvents.addItems(event => {
   candidates.sort((a, b) => a.getDisplayName() > b.getDisplayName()).forEach(x => event.add(x));
 });
 
-JEIEvents.hide('item', event => {
+JEIEvents.hideItems(event => {
   const toRemove = JsonIO.read('kubejs/globals/nuked.json').items;
   toRemove.forEach(x => event.hide(x));
   event.hide('techreborn:manual');
 });
 
 JEIEvents.information(event => {
+  event.addItem(Ingredient.of('sushigocrafting:nori_sheets'), Text.black("Created by throwing a Dried Kelp Block on top of an Iron Block and compacting it with a Piston."));
   event.addItem(Ingredient.of([Item.of('ae2:certus_quartz_crystal', 2), Item.of('ae2:certus_quartz_dust', 5)]), Text.black('Created in Industrial Grinder using Certus Quartz Ores'));
   event.addItem(Ingredient.of([Item.of('ae2:certus_quartz_dust', 5)]), Text.black('Created in Grinder using Certus Quartz Ores'));
   event.addItem(Ingredient.of([Item.of('ae2:certus_quartz_dust')]), Text.black('Created in Grinder using 2x Certus Quartz'));

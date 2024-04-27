@@ -1,0 +1,8 @@
+{
+  "block.fluxnetworks.flux_point": "Flux Receiver",
+  "block.fluxnetworks.flux_plug": "Flux Transmitter",
+  "tooltip.fluxnetworks.flux_point": "Receives energy from the network, providing it to adjacent blocks",
+  "tooltip.fluxnetworks.flux_plug": "Consumes energy from adjacent blocks, transmitting throughout the network",
+  "gui.fluxnetworks.stat.point": "Receiver",
+  "gui.fluxnetworks.stat.plug": "Transmitters"
+}
