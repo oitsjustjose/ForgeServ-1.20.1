@@ -1,3 +1,41 @@
+## 1.0.4
+
+### Added:
+
+- Corpse
+- Dimensional Doors
+- More Overlays
+- Recipe for Nori Sheets in "JEI Information" and the Multiservo Press
+- Recipe to revert Facades back into a single anchor
+- Botany Pot recipes for Aether tree variants
+
+### Updated:
+
+- Aether
+- Botany Pots
+- ComputerCraft
+- EveryCompat
+- Forgery
+- Framed Compacting Drawers
+- Iron's Spells & Spellbooks
+- ModernFix
+- RFTools
+- Sophisticated Backpacks
+- X-Net
+
+### Fixed:
+
+- Fixed Aether Silver Dungeon Pillars looking out of place
+- Items in JEI not being hidden like they're supposed to
+- Jade not showing inventory contents
+- Occasional crash moving things into Backpacks
+- Tooltips not containing the Mod Name they come from
+
+### Changed:
+
+- The Enigmatic Amulet will no longer work as a "grave" since we now have the (much better) Corpse mod
+- Renamed Flux Plugs & Points to make more sense
+
 ## 1.0.3
 
 ### Added:
