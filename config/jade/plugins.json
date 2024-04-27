@@ -118,6 +118,9 @@
   "waystones": {
     "waystone": true
   },
+  "corpse": {
+    "corpse": true
+  },
   "storagedrawers": {
     "display.stacklimit": true,
     "display.content": true,
