@@ -1,13 +1,13 @@
-filename = 'aether-1.20.1-1.4.0-neoforge.jar'
+filename = 'aether-1.20.1-1.4.1-neoforge.jar'
 name = 'The Aether'
 side = 'both'
 
 [download]
-hash = 'd24a31d0e7a4de89c53f60fb6834cc2f3a96b285'
+hash = '43870cfa9e4ca73f8776763d198d7de383a69383'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5263397
+file-id = 5296340
 project-id = 255308

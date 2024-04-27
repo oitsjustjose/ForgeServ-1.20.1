@@ -46,6 +46,7 @@
 				horse = true
 				vindicator = true
 				phantom = true
+				minecart = true
 				leash_knot = true
 				evoker = true
 				glow_squid = true
@@ -96,14 +97,24 @@
 				fancy_painting = true
 
 			[light_sources.settings.entities.endermanoverhaul]
-				mushroom_fields_enderman = true
 				savanna_enderman = true
-				cave_enderman = true
+				ice_spikes_enderman = true
+				flower_fields_enderman = true
 				desert_enderman = true
-				snowy_enderman = true
+				ender_bullet = true
+				windswept_hills_enderman = true
 				coral_enderman = true
+				spirit = true
 				end_enderman = true
+				mushroom_fields_enderman = true
+				cave_enderman = true
+				snowy_enderman = true
+				dark_oak_enderman = true
+				soulsand_valley_enderman = true
 				scarab = true
+				swamp_enderman = true
+				end_islands_enderman = true
+				badlands_enderman = true
 
 			[light_sources.settings.entities.regions_unexplored]
 				boat = true
@@ -136,13 +147,16 @@
 			[light_sources.settings.entities.naturalist]
 				deer = true
 				snail = true
+				alligator = true
 				rhino = true
 				bluejay = true
 				snake = true
+				catfish = true
 				robin = true
+				dragonfly = true
 				tortoise = true
-				butterfly = true
 				duck = true
+				butterfly = true
 				bear = true
 				sparrow = true
 				lizard = true
@@ -186,6 +200,7 @@
 			[light_sources.settings.entities.irons_spellbooks]
 				pyromancer = true
 				citadel_keeper = true
+				apothecarist = true
 				necromancer = true
 				archevoker = true
 				priest = true
@@ -200,6 +215,9 @@
 
 			[light_sources.settings.entities.gateways]
 				normal_gateway = true
+
+			[light_sources.settings.entities.dimdoors]
+				monolith = true
 
 			[light_sources.settings.entities.pneumaticcraft]
 				heat_frame = true

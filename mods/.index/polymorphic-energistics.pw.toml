@@ -1,13 +1,13 @@
-filename = 'polyeng-forge-0.1.0-1.20.1.jar'
+filename = 'polyeng-forge-0.1.1-1.20.1.jar'
 name = 'Polymorphic Energistics'
 side = 'both'
 
 [download]
-hash = '515d726456d78487ade0162220d5a52696fbe726'
+hash = '4617a4de40edda9a480ea0c33ba03e97d4a3ae1a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 4887614
+file-id = 5282394
 project-id = 941096

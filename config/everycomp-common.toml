@@ -193,6 +193,9 @@
 				gilded_oak = true
 				blighted_skyroot = true
 
+			[general.types.leaves_type.dimdoors]
+				driftwood = true
+
 		[general.types.wood_type]
 
 			[general.types.wood_type.regions_unexplored]
@@ -269,6 +272,9 @@
 				jellyshroom = true
 				crystal = true
 				glacia = true
+
+			[general.types.wood_type.dimdoors]
+				driftwood = true
 
 		[general.types.cake]
 
