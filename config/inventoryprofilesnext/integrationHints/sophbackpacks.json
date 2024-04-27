@@ -1,5 +1,9 @@
 {
-  "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": {
-    "ignore": true
-  }
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": {
+        "ignore": true,
+        "disableFastSwipe": true
+    },
+    "net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer": {
+        "ignore": true
+    }
 }
