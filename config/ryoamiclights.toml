@@ -21,6 +21,7 @@
 				allay = true
 				skeleton = true
 				llama = true
+				mule = true
 				husk = true
 				bat = true
 				frog = true
@@ -164,6 +165,7 @@
 				zebra = true
 				canary = true
 				firefly = true
+				hippo = true
 				coral_snake = true
 				cardinal = true
 				lion = true

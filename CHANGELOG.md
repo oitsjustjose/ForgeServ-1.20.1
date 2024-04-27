@@ -5,6 +5,7 @@
 - Corpse
 - Dimensional Doors
 - More Overlays
+- Toolbelt
 - Recipe for Nori Sheets in "JEI Information" and the Multiservo Press
 - Recipe to revert Facades back into a single anchor
 - Botany Pot recipes for Aether tree variants
