@@ -3,11 +3,11 @@ name = 'The Aether'
 side = 'both'
 
 [download]
-hash = '43870cfa9e4ca73f8776763d198d7de383a69383'
+hash = 'ff5803349d90fed0e7ee2b8a8bb99bed6c4f8344'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5296340
+file-id = 5296997
 project-id = 255308
